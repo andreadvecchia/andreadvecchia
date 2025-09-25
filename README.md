@@ -1,16 +1,18 @@
 # Andrea Della Vecchia
 
-🎓 Postdoctoral Researcher @ EPFL, Swiss Finance Institute (Lausanne, Switzerland)  
-🔬 Machine Learning · Quantitative Research · Stochastic Control  
-💡 Special focus: Option Pricing · Kernel Methods · Reinforcement Learning  
+🎓 Postdoctoral Researcher, Swiss Finance Institute @ EPFL (Lausanne, Switzerland)  
+🔬 Machine Learning · Quantitative Research  
+💡 Special focus: Stochastic Optimal Control · Option Pricing · Scalable Kernel Methods · Time Series Forcasting
 
 ---
 
 ## 👋 About Me
 I am a **postdoctoral researcher at EPFL** working at the intersection of **machine learning and quantitative finance**.  
-My research develops **scalable, mathematically rigorous algorithms** for **dynamic programming, option pricing, and stochastic control**, with applications to **hedge fund–style problems** such as signal evaluation, forecasting, and robust backtesting.  
+My current research focuses on developing scalable, mathematically rigorous algorithms for financial applications, including dynamic programming for stochastic control and option pricing. I also study learning with non-i.i.d. data and time-series forecasting.
 
-I have 6+ years of research experience across Europe (Italy, Germany, Switzerland), with publications at **top ML venues (NeurIPS – spotlight, JMLR, AISTATS)** and collaborations with academia and industry.  
+My earlier research focused on statistical learning theory, online learning, and optimization. Highlights include developing **efficient algorithms for covariate shift (NeurIPS)** and providing the first analysis of the **generalization error of the Nyström method for convex losses (JMLR)**.
+
+I have 6+ years of research experience across Europe (Italy, Germany, Switzerland), with publications at **top ML venues (NeurIPS – spotlight, JMLR, AISTATS, PRE)** and collaborations with academia and industry.  
 
 I am seeking opportunities as a **Quant Researcher / ML Researcher** in leading hedge funds and financial institutions.  
 
