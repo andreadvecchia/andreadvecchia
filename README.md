@@ -1,5 +1,4 @@
-Hello 👋  
-My name is Andrea Della Vecchia.
+Hi! 👋  My name is Andrea Della Vecchia.
 
 I am a **Postdoctoral Researcher at EPFL** – [Swiss Finance Institute](https://www.epfl.ch/schools/cdm/college-of-management-of-technology/research/swiss-finance-institute/), working on **scalable machine learning methods for quantitative finance**.  
 My recent work includes dynamic programming for stochastic control and American option pricing, as well as non-i.i.d. data (covariate shift) and time-series forecasting.
