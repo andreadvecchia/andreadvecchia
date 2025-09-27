@@ -1,11 +1,11 @@
 Hello 👋  
 My name is Andrea Della Vecchia.
 
-I am a Postdoctoral Researcher at EPFL – Swiss Finance Institute, working on scalable machine learning methods for quantitative finance.  
+I am a **Postdoctoral Researcher at EPFL** – Swiss Finance Institute, working on **scalable machine learning methods for quantitative finance**.  
 My recent work includes dynamic programming for stochastic control and American option pricing, as well as non-i.i.d. data (covariate shift) and time-series forecasting.
 
-I received my Ph.D. in Machine Learning from the University of Genoa, advised by Prof. Lorenzo Rosasco and Prof. Ernesto De Vito.  
-There, I focused on statistical learning theory and optimization, developing efficient kernel-based algorithms for regression and classification using random projection techniques (Nyström method, random features).
+I received my **Ph.D. in Machine Learning** from the University of Genoa, advised by Prof. Lorenzo Rosasco and Prof. Ernesto De Vito.  
+There, I focused on statistical learning theory and optimization, **developing efficient kernel-based algorithms** for regression and classification using random projection techniques (Nyström method, random features).
 
 More about me and my research:  
 🔗 [andreadvecchia.github.io](https://andreadvecchia.github.io)
